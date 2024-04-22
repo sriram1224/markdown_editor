@@ -12,29 +12,13 @@
 }
 
 .button-one{
-  margin: 5px;
-    padding: 5px 10px;
-    border: none;
-    border-radius: 5px;
-    background-color: #ff004c;
-    color: white;
-    cursor: pointer;
+  background-color:red;
 
 }
 .notes-container h2 {
   color: #333;
 }
-.note{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  margin: 10px 0;
-  cursor: pointer;
 
-}
 .notes-container ul {
   list-style-type: none;
   padding: 0;

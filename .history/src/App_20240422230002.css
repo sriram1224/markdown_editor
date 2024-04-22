@@ -1,0 +1,62 @@
+/* styles.css */
+
+/* Layout styles */
+.container {
+  display: flex;
+}
+
+.notes-container {
+  width: 50%;
+  padding: 20px;
+}
+
+.markdown-container {
+  width: 50%;
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+/* Button styles */
+.button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+/* Textarea styles */
+textarea {
+  width: 100%;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Markdown content styles */
+.markdown-content {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Icon styles */
+.icon {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: #0056b3;
+}
